@@ -1,0 +1,45 @@
+body{
+    background-color: #f5fffa;
+}
+#main {
+    flex: 1;
+    padding: 10px 20px;
+  }
+
+
+
+input[type=text]{
+    padding: 10px;
+    margin:10px 0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    border-radius:10px;
+    width:97.5%
+}
+button{
+    padding: 10px;
+    margin:10px 0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    border-radius:10px;
+    width:97% 
+}
+button:hover{
+    background-color: #00ffff;
+}#notice{
+    margin:10px 0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    border-radius:10px;
+    width:97% ;
+    background-color: red;
+}
+.remainingamountinred{
+    color:red;
+}
+.remainingamountingreen{
+    color:green;
+}
+.amountblack{
+    color:black;
+}
+
+
+
